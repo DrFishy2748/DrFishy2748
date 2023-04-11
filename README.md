@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DrFishy2748
-- 👀 I’m interested in 3D modeling, drawing, fitness, and gaming
-- 🌱 I’m currently learning blender, substance painter, marmoset toolbag, and maybe digital art some days
+- 👀 I’m interested in things
+- 🌱 I’m currently learning drawing, blender, substance painter, marmoset toolbag, gamemaker, unity, and maybe digital art some days
 - 📫 How to reach me: email is --> dr.fishy2748@gmail.com
 
 <!---
